@@ -1,0 +1,9 @@
+<resources>
+
+    <declare-styleable name="LetterSide">
+        <attr name="textSizeSp" format="integer"/>
+        <attr name="normalColor" format="color"/>
+        <attr name="lightColor" format="color"/>
+    </declare-styleable>
+
+</resources>
